@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/ea05d859b8cd150fc35c986ab737b175/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/ea05d859b8cd150fc35c986ab737b175/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

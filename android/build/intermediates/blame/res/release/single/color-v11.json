@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/ef8482231336c2feb9cf415020dc5580/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/ef8482231336c2feb9cf415020dc5580/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

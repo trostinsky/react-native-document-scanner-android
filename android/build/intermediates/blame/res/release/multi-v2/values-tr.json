@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/ef8482231336c2feb9cf415020dc5580/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,692,798,918,997,1073,1152,1259,1364,1460,1567,1669,1777,1896,1994",
+                        "endColumns": "104,107,122,98,111,89,105,119,78,75,78,106,104,95,106,101,107,118,97,100",
+                        "endOffsets": "155,263,386,485,597,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2090"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,692,798,918,997,1073,1152,1259,1364,1460,1567,1669,1777,1896,2525",
+                        "endColumns": "104,107,122,98,111,89,105,119,78,75,78,106,104,95,106,101,107,118,97,100",
+                        "endOffsets": "155,263,386,485,597,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2621"
+                    }
+                },
+                {
+                    "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/react-native-0.19.1.aar/341421a555aa231dfd84f22ef6221636/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,178,257,328,397,453,512",
+                        "endColumns": "53,68,78,70,68,55,58,73",
+                        "endOffsets": "104,173,252,323,392,448,507,581"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1994,2048,2117,2196,2267,2336,2392,2451",
+                        "endColumns": "53,68,78,70,68,55,58,73",
+                        "endOffsets": "2043,2112,2191,2262,2331,2387,2446,2520"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/build/intermediates/res/merged/release/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/ef8482231336c2feb9cf415020dc5580/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,692,798,918,997,1073,1152,1259,1364,1460,1567,1669,1777,1896,1994",
+                        "endColumns": "104,107,122,98,111,89,105,119,78,75,78,106,104,95,106,101,107,118,97,100",
+                        "endOffsets": "155,263,386,485,597,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2090"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,490,602,692,798,918,997,1073,1152,1259,1364,1460,1567,1669,1777,1896,2525",
+                        "endColumns": "104,107,122,98,111,89,105,119,78,75,78,106,104,95,106,101,107,118,97,100",
+                        "endOffsets": "155,263,386,485,597,687,793,913,992,1068,1147,1254,1359,1455,1562,1664,1772,1891,1989,2621"
+                    }
+                },
+                {
+                    "source": "/Users/vlad/.gradle/caches/transforms-1/files-1.1/react-native-0.19.1.aar/341421a555aa231dfd84f22ef6221636/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,178,257,328,397,453,512",
+                        "endColumns": "53,68,78,70,68,55,58,73",
+                        "endOffsets": "104,173,252,323,392,448,507,581"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1994,2048,2117,2196,2267,2336,2392,2451",
+                        "endColumns": "53,68,78,70,68,55,58,73",
+                        "endOffsets": "2043,2112,2191,2262,2331,2387,2446,2520"
+                    }
+                }
+            ]
+        }
+    ]
+}

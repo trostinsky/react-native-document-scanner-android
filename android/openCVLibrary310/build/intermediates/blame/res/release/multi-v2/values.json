@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/openCVLibrary310/build/intermediates/res/merged/release/values/values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "/Users/vlad/techdoc/node_modules/react-native-documentscanner-android/android/openCVLibrary310/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": []
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/*
+.idea/
+android/app/build/**/*
+android/app/release
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
